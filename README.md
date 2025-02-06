@@ -22,7 +22,8 @@ added later. Features I want to include (sorted from more to less important) are
 1. **Admin and maintenance tools:** Tools that allow you to make massive changes to your server,
    such as theme switching (for things like Pride month, etc. - changes your server icon, banner,
    etc.), or maintenance mode for example (where the bot restricts the server into a single
-   channel where people can talk while the server is locked down).
+   channel where people can talk while the server is locked down). This framework would also be
+   useful for management of rules, which would be saved in a JSON format and kept track of.
 1. **General public utilities:** Utilities like weather API, Google (using LMGTFY API), shards
    info, stats tracker for the server, bot's stats, etc.
 1. **Entertainment:** Since this bot isn't intended to play music or engage in other voice
